@@ -1,0 +1,10 @@
+#not implemented yet
+spring:
+  application:
+    name: demo-security-application
+  cloud:
+    vault:
+      host: localhost
+      port: 8200
+      scheme: http
+      token: s.4rdZvsOfwN4PiTLDKYYBrgsB
